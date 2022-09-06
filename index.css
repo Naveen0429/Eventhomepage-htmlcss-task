@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+}
+.form-control{
+  background-color:red;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color: green;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.col-md-12{
+  padding-left: 50px;
+  padding-right: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+
+}
+.box-part{
+  background-color:yellowgreen;(252, 255, 73);
+  margin-to : 30px;
+  margin-bottom: 10px;
+ 
+}
+.img-fluid{
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding: 5px 5px;
+}
+
+h3{
+  font-size: medium;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
